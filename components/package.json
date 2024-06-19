@@ -1,6 +1,6 @@
 {
   "name": "soosoo-react-modal-component",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "level2 react modal component",
   "type": "module",
   "types": "dist/index.d.ts",
@@ -21,7 +21,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "soosoo-react-modal-component": "^0.0.5"
+    "soosoo-react-modal-component": "^0.0.7"
   },
   "devDependencies": {
     "@chromatic-com/storybook": "^1.3.3",
